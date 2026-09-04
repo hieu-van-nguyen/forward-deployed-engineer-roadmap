@@ -105,6 +105,8 @@ Build two flagship portfolio projects, practice the FDE interview format, and dr
 | W4 | [04 — Glue Architecture: Resilient HTTP](./milestones/04-glue-architecture-resilient-http.md) | [Week 4 Schedule](./weeks/week-04-glue-architecture-resilient-http.md) |
 | W5 | [05 — Containerization/K8s: Docker to Helm](./milestones/05-containerization-k8s-helm.md) | [Week 5 Schedule](./weeks/week-05-containerization-k8s-helm.md) |
 | W6 | [06 — Infra as Code: Terraform](./milestones/06-infra-as-code-terraform.md) | [Week 6 Schedule](./weeks/week-06-infra-as-code-terraform.md) |
+| W7 | [07 — Enterprise Security: OAuth2/OIDC/SAML](./milestones/07-enterprise-security-oauth2-oidc-saml.md) | [Week 7 Schedule](./weeks/week-07-enterprise-security-oauth2-oidc-saml.md) |
+| W8 | [08 — Network Security: VPC/TLS](./milestones/08-network-security-vpc-tls.md) | [Week 8 Schedule](./weeks/week-08-network-security-vpc-tls.md) |
 
 ---
 
