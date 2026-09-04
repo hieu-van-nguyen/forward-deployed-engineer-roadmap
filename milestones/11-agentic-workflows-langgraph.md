@@ -9,6 +9,8 @@
 | **Objective** | Construct stateful multi-agent workflows using LangGraph / AutoGen for tool calling and parsing |
 | **Key Deliverable** | Multi-agent assistant executing SQL queries & API calls |
 
+**📅 Day-by-day plan:** [Week 11 Schedule](../weeks/week-11-agentic-workflows-langgraph.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

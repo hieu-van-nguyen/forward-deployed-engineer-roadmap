@@ -9,6 +9,8 @@
 | **Objective** | Integrate structured data extraction (Pydantic, Instructor) and safety guardrails (Guardrails AI) |
 | **Key Deliverable** | Production API enforcing strict JSON output schemas |
 
+**📅 Day-by-day plan:** [Week 12 Schedule](../weeks/week-12-llm-guardrails-structured-output.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

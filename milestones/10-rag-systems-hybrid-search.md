@@ -9,6 +9,8 @@
 | **Objective** | Build end-to-end Hybrid RAG (Dense vector search + Sparse BM25 keyword search + Reranking model) |
 | **Key Deliverable** | Hybrid search engine with re-ranking delivering top accuracy |
 
+**📅 Day-by-day plan:** [Week 10 Schedule](../weeks/week-10-rag-systems-hybrid-search.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

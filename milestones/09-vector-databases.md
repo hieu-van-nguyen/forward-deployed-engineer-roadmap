@@ -9,6 +9,8 @@
 | **Objective** | Master vector indexing (HNSW, IVFFlat) and implement pgvector / Pinecone / Qdrant search engines |
 | **Key Deliverable** | Benchmark report comparing vector search latency & recall |
 
+**📅 Day-by-day plan:** [Week 9 Schedule](../weeks/week-09-vector-databases.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

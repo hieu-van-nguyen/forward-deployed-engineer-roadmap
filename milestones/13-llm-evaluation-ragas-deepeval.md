@@ -9,6 +9,8 @@
 | **Objective** | Build automated evaluation pipelines (Ragas/DeepEval) measuring Groundedness, Faithfulness, Recall |
 | **Key Deliverable** | Automated test harness scoring LLM responses against golden dataset |
 
+**📅 Day-by-day plan:** [Week 13 Schedule](../weeks/week-13-llm-evaluation-ragas-deepeval.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs
