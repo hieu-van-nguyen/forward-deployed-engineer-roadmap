@@ -9,6 +9,8 @@
 | **Objective** | Implement OAuth2, OIDC, and SAML 2.0 single sign-on flows; set up RBAC permission schemas |
 | **Key Deliverable** | Working Auth service integration with Okta/Keycloak |
 
+**📅 Day-by-day plan:** [Week 7 Schedule](../weeks/week-07-enterprise-security-oauth2-oidc-saml.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

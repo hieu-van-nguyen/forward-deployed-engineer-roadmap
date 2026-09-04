@@ -9,6 +9,8 @@
 | **Objective** | Learn enterprise network traversal: reverse proxies (Nginx), TLS termination, and VPC peering |
 | **Key Deliverable** | Architecture diagram & setup guide for secure VPC access |
 
+**📅 Day-by-day plan:** [Week 8 Schedule](../weeks/week-08-network-security-vpc-tls.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs
