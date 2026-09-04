@@ -9,6 +9,8 @@
 | **Objective** | Learn LoRA/QLoRA fine-tuning concepts for open-source models (Llama 3 / Mistral) for domain tuning |
 | **Key Deliverable** | Fine-tuned small model benchmarked against base model |
 
+**📅 Day-by-day plan:** [Week 16 Schedule](../weeks/week-16-fine-tuning-lora-qlora.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

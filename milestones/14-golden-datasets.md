@@ -9,6 +9,8 @@
 | **Objective** | Curate a 100-sample domain-specific golden evaluation dataset with ground truth annotations |
 | **Key Deliverable** | Structured evaluation benchmark dataset (JSON/CSV) |
 
+**📅 Day-by-day plan:** [Week 14 Schedule](../weeks/week-14-golden-datasets.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

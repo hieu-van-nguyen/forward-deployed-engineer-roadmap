@@ -9,6 +9,8 @@
 | **Objective** | Implement OpenTelemetry / LangSmith / Phoenix for LLM trace logging, token counting, & cost tracking |
 | **Key Deliverable** | Dashboard tracking latency, token usage, and cost per call |
 
+**📅 Day-by-day plan:** [Week 15 Schedule](../weeks/week-15-telemetry-tracing-opentelemetry.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs
