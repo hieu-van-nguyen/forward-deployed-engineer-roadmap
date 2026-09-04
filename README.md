@@ -107,6 +107,11 @@ Build two flagship portfolio projects, practice the FDE interview format, and dr
 | W6 | [06 — Infra as Code: Terraform](./milestones/06-infra-as-code-terraform.md) | [Week 6 Schedule](./weeks/week-06-infra-as-code-terraform.md) |
 | W7 | [07 — Enterprise Security: OAuth2/OIDC/SAML](./milestones/07-enterprise-security-oauth2-oidc-saml.md) | [Week 7 Schedule](./weeks/week-07-enterprise-security-oauth2-oidc-saml.md) |
 | W8 | [08 — Network Security: VPC/TLS](./milestones/08-network-security-vpc-tls.md) | [Week 8 Schedule](./weeks/week-08-network-security-vpc-tls.md) |
+| W9 | [09 — Vector Databases: HNSW/pgvector/Pinecone/Qdrant](./milestones/09-vector-databases.md) | [Week 9 Schedule](./weeks/week-09-vector-databases.md) |
+| W10 | [10 — RAG Systems: Hybrid Search](./milestones/10-rag-systems-hybrid-search.md) | [Week 10 Schedule](./weeks/week-10-rag-systems-hybrid-search.md) |
+| W11 | [11 — Agentic Workflows: LangGraph/AutoGen](./milestones/11-agentic-workflows-langgraph.md) | [Week 11 Schedule](./weeks/week-11-agentic-workflows-langgraph.md) |
+| W12 | [12 — LLM Guardrails: Structured Output](./milestones/12-llm-guardrails-structured-output.md) | [Week 12 Schedule](./weeks/week-12-llm-guardrails-structured-output.md) |
+| W13 | [13 — LLM Evaluation: Ragas/DeepEval](./milestones/13-llm-evaluation-ragas-deepeval.md) | [Week 13 Schedule](./weeks/week-13-llm-evaluation-ragas-deepeval.md) |
 
 ---
 
