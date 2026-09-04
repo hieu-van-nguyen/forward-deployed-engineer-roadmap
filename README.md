@@ -112,6 +112,9 @@ Build two flagship portfolio projects, practice the FDE interview format, and dr
 | W11 | [11 — Agentic Workflows: LangGraph/AutoGen](./milestones/11-agentic-workflows-langgraph.md) | [Week 11 Schedule](./weeks/week-11-agentic-workflows-langgraph.md) |
 | W12 | [12 — LLM Guardrails: Structured Output](./milestones/12-llm-guardrails-structured-output.md) | [Week 12 Schedule](./weeks/week-12-llm-guardrails-structured-output.md) |
 | W13 | [13 — LLM Evaluation: Ragas/DeepEval](./milestones/13-llm-evaluation-ragas-deepeval.md) | [Week 13 Schedule](./weeks/week-13-llm-evaluation-ragas-deepeval.md) |
+| W14 | [14 — Golden Datasets: Evaluation Benchmark Curation](./milestones/14-golden-datasets.md) | [Week 14 Schedule](./weeks/week-14-golden-datasets.md) |
+| W15 | [15 — Telemetry & Tracing: OpenTelemetry](./milestones/15-telemetry-tracing-opentelemetry.md) | [Week 15 Schedule](./weeks/week-15-telemetry-tracing-opentelemetry.md) |
+| W16 | [16 — Fine-Tuning Basics: LoRA/QLoRA](./milestones/16-fine-tuning-lora-qlora.md) | [Week 16 Schedule](./weeks/week-16-fine-tuning-lora-qlora.md) |
 
 ---
 
