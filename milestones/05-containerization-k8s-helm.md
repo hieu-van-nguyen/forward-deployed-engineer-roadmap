@@ -9,6 +9,8 @@
 | **Objective** | Containerize multi-service apps with Docker Compose and migrate to local Kubernetes (Kind/Helm) |
 | **Key Deliverable** | Local Helm chart deploying API, DB, and caching layer |
 
+**📅 Day-by-day plan:** [Week 5 Schedule](../weeks/week-05-containerization-k8s-helm.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

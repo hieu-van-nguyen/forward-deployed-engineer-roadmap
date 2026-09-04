@@ -9,6 +9,8 @@
 | **Objective** | Write Terraform scripts to provision cloud resources (VPCs, private subnets, IAM policies, RDS) |
 | **Key Deliverable** | Declarative IaC repo with modular Terraform templates |
 
+**📅 Day-by-day plan:** [Week 6 Schedule](../weeks/week-06-infra-as-code-terraform.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs
