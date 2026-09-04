@@ -102,6 +102,7 @@ Build two flagship portfolio projects, practice the FDE interview format, and dr
 | W1 | [01 — Advanced SQL](./milestones/01-data-engineering-advanced-sql.md) | [Week 1 Schedule](./weeks/week-01-advanced-sql.md) |
 | W2 | [02 — CDC Pipelines](./milestones/02-data-pipelines-cdc.md) | [Week 2 Schedule](./weeks/week-02-cdc-pipelines.md) |
 | W3 | [03 — DB Internals: OLTP vs OLAP](./milestones/03-db-internals-oltp-olap.md) | [Week 3 Schedule](./weeks/week-03-db-internals-oltp-olap.md) |
+| W4 | [04 — Glue Architecture: Resilient HTTP](./milestones/04-glue-architecture-resilient-http.md) | [Week 4 Schedule](./weeks/week-04-glue-architecture-resilient-http.md) |
 
 ---
 
