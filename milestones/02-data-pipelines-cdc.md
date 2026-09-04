@@ -9,6 +9,8 @@
 | **Objective** | Implement Change Data Capture (CDC) with PostgreSQL, Debezium, and Kafka/NATS for real-time streaming |
 | **Key Deliverable** | Working local CDC pipeline syncing DB writes to consumer |
 
+**📅 Day-by-day plan:** [Week 2 Schedule](../weeks/week-02-cdc-pipelines.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

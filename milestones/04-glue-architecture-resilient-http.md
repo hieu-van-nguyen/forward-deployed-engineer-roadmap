@@ -9,6 +9,8 @@
 | **Objective** | Build robust error-handling & retry wrappers with backoff for unreliable 3rd-party REST/GraphQL APIs |
 | **Key Deliverable** | Reusable Python/Go resilient HTTP client package |
 
+**📅 Day-by-day plan:** [Week 4 Schedule](../weeks/week-04-glue-architecture-resilient-http.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

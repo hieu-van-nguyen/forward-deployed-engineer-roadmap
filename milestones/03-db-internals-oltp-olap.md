@@ -9,6 +9,8 @@
 | **Objective** | Study OLTP vs. OLAP data modeling (Star Schema, OBT) & indexing strategies |
 | **Key Deliverable** | Schema design doc comparing OLTP vs OLAP performance |
 
+**📅 Day-by-day plan:** [Week 3 Schedule](../weeks/week-03-db-internals-oltp-olap.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs

@@ -9,6 +9,8 @@
 | **Objective** | Master Advanced SQL (Window functions, recursive CTEs, query plan optimization via EXPLAIN ANALYZE) |
 | **Key Deliverable** | Optimized benchmark queries on 10M+ row dataset |
 
+**📅 Day-by-day plan:** [Week 1 Schedule](../weeks/week-01-advanced-sql.md) (Days 1–7)
+
 ---
 
 ## Why This Matters for FDEs
