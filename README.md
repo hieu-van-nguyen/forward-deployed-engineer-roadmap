@@ -103,6 +103,8 @@ Build two flagship portfolio projects, practice the FDE interview format, and dr
 | W2 | [02 — CDC Pipelines](./milestones/02-data-pipelines-cdc.md) | [Week 2 Schedule](./weeks/week-02-cdc-pipelines.md) |
 | W3 | [03 — DB Internals: OLTP vs OLAP](./milestones/03-db-internals-oltp-olap.md) | [Week 3 Schedule](./weeks/week-03-db-internals-oltp-olap.md) |
 | W4 | [04 — Glue Architecture: Resilient HTTP](./milestones/04-glue-architecture-resilient-http.md) | [Week 4 Schedule](./weeks/week-04-glue-architecture-resilient-http.md) |
+| W5 | [05 — Containerization/K8s: Docker to Helm](./milestones/05-containerization-k8s-helm.md) | [Week 5 Schedule](./weeks/week-05-containerization-k8s-helm.md) |
+| W6 | [06 — Infra as Code: Terraform](./milestones/06-infra-as-code-terraform.md) | [Week 6 Schedule](./weeks/week-06-infra-as-code-terraform.md) |
 
 ---
 
